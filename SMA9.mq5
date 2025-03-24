@@ -3,7 +3,7 @@
 //|                                      Copyright 2020, CompanyName |
 //|                                       http://www.companyname.net |
 //+------------------------------------------------------------------+
-#include <Dotlib/Dotlib.mqh>
+#include <C:\Users\joalr\OneDrive\Documentos\Dotlib\Dotlib.mqh>
 #include <Trade/Trade.mqh>
 
 //+------------------------------------------------------------------+
